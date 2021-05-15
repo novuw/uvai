@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/uvai/static/css/main.500fe68e.chunk.css",
+    "main.js": "/uvai/static/js/main.51891b88.chunk.js",
+    "main.js.map": "/uvai/static/js/main.51891b88.chunk.js.map",
+    "runtime-main.js": "/uvai/static/js/runtime-main.e4250a97.js",
+    "runtime-main.js.map": "/uvai/static/js/runtime-main.e4250a97.js.map",
+    "static/js/2.05171954.chunk.js": "/uvai/static/js/2.05171954.chunk.js",
+    "static/js/2.05171954.chunk.js.map": "/uvai/static/js/2.05171954.chunk.js.map",
+    "index.html": "/uvai/index.html",
+    "static/css/main.500fe68e.chunk.css.map": "/uvai/static/css/main.500fe68e.chunk.css.map",
+    "static/js/2.05171954.chunk.js.LICENSE.txt": "/uvai/static/js/2.05171954.chunk.js.LICENSE.txt",
+    "static/media/Future.0e615e4b.jpg": "/uvai/static/media/Future.0e615e4b.jpg",
+    "static/media/Results.c9eb6fe8.jpg": "/uvai/static/media/Results.c9eb6fe8.jpg",
+    "static/media/about.19e59a4d.png": "/uvai/static/media/about.19e59a4d.png",
+    "static/media/bibliography.3fab1e16.jpg": "/uvai/static/media/bibliography.3fab1e16.jpg",
+    "static/media/native.c4fadbec.jpg": "/uvai/static/media/native.c4fadbec.jpg",
+    "static/media/sainfo.74bcd278.png": "/uvai/static/media/sainfo.74bcd278.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4250a97.js",
+    "static/js/2.05171954.chunk.js",
+    "static/css/main.500fe68e.chunk.css",
+    "static/js/main.51891b88.chunk.js"
+  ]
+}
